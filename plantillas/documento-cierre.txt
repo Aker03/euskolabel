@@ -1,0 +1,7 @@
+<footer id="pie_pagina">
+            <span class="contacto"><a href="#contacto">CONTACTO</a></span>
+            <span class="s_nosotros"><a href="#sobre_nosotros">SOBRE NOSOTROS</a></span>
+            <span class="p_cookies"><a href="#p_cookies">POLITICA COOKIES</a></span>
+        </footer>
+    </body>
+</html>

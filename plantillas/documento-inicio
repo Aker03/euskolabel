@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="estilos.css" rel="stylesheet">
+        <meta charset="UTF-8">
+        <title>EUSKO LABEL</title>
+        <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Alegreya&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        <nav id="navbar">
+            <a href="index.html"><img src="img/icono.png" alt="Inicio" width="57" height="35"></a> 
+            <a href="#">Compras</a> 
+            <a href="#">Ventas</a> <!--rol para ventas?-->
+            <a href="#">Productos</a> 
+            <div id="inicio-registro">
+                <a href="#">Inicio de sesion</a> 
+                <a href="#">Registro</a> 
+            </div>
+        </nav>
